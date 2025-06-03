@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# AML
+.amlignore
+.amlignore.amltmp
+*.ipynb.amltmp
+.ipynb_aml_checkpoints/
