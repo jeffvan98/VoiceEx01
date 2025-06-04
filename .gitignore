@@ -178,3 +178,6 @@ cython_debug/
 .amlignore.amltmp
 *.ipynb.amltmp
 .ipynb_aml_checkpoints/
+
+# Misc
+/temp
